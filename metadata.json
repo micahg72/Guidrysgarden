@@ -1,0 +1,7 @@
+{
+  "name": "Guidry's Garden Ai: Plan • Design • Visualize",
+  "description": "Guidry's Garden Ai: Plan • Design • Visualize is an AI-powered garden planning assistant. Design your dream garden with visual layouts, get plant suggestions, visualize results by uploading a photo of your space, and interact using a conversational voice interface.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
